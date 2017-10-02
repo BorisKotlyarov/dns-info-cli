@@ -1,0 +1,12 @@
+{
+  "name": "dns-info-cli",
+  "description": "View DNS info",
+  "version": "1.0.1",
+  "bin": {
+    "dns": "bin/dns"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "Boris",
+  "license": "MIT"
+}
