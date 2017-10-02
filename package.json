@@ -1,7 +1,7 @@
 {
   "name": "dns-info-cli",
   "description": "View DNS info",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "bin": {
     "dns": "bin/dns"
   },
