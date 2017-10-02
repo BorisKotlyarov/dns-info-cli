@@ -1,12 +1,20 @@
 {
   "name": "dns-info-cli",
   "description": "View DNS info",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "bin": {
     "dns": "bin/dns"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BorisKotlyarov/dns-info-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BorisKotlyarov/dns-info-cli/issues"
+  },
+  "homepage": "https://github.com/BorisKotlyarov/dns-info-cli#readme",
   "dependencies": {},
   "devDependencies": {},
-  "author": "Boris",
+  "author": "Boris Kotlyarov",
   "license": "MIT"
 }

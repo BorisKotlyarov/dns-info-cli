@@ -9,5 +9,5 @@ dns <domian name>
 
 //Example
 
-dns www.npmjs.com
+dns npmjs.com
 ```
